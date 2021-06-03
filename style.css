@@ -1,0 +1,124 @@
+main {
+  display:flex;
+  flex-flow: column;
+  align-items: flex-start;
+  position: relative;
+  left: 33%; 
+  right: 33%;
+  }
+
+p {
+  width: 33%;
+  line-height: 30px;
+}
+
+h1 {
+  font-size: 35px;
+  position: absolute;
+  top: -7%;
+}
+
+h1 span {
+  font-size: 60px;
+}
+
+p span {
+  font-weight: bold;
+ }
+
+h1, blockquote, #hears {
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+p, ul, h2, h3 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 19px;
+}
+
+h4 {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+
+img {
+  position: relative;
+  width: 80%;
+  left: 10%;
+  right: 10%;
+  margin-bottom: 23px;
+}
+
+body {
+  margin-top: 0%;
+} 
+
+li {
+  margin: 8px;
+  width: 95%;
+}
+
+blockquote, #galaxy {
+  background: #696969;
+  height: 60px;
+  width: 42%;
+  color: white;
+  font-size: 47px;
+  padding: 50px;
+  margin-left: -3%;
+  margin-top: 20px;
+}
+  
+h2 {
+  font-size: 27px;
+  padding-bottom:20px;
+}
+
+h3 {
+  width: 36%;
+  font-size: 24px;
+  line-height: 37px;
+}
+
+blockquote, #faith {
+  height: 80px;
+  padding-top: 60px;
+}
+#hears {
+  font-size: 125px;
+  position: absolute;
+  top: 285px;
+  left: -60px;
+  color: white;
+}
+#hears2 {
+  font-size: 125px;
+  position: absolute;
+  top: 1200px;
+  left: -60px;
+  color: white;
+}
+#hears3 {
+  font-size: 125px;
+  position: absolute;
+  top: 1998px;
+  left: -60px;
+  color: white;
+}
+h4 {
+  margin-top: -1.5%;
+}
+blockquote, #master {
+  height: 120px;
+  padding-bottom: 60px;
+}
+
+.line {
+  background: black;
+  height: 4px;
+  width: 50%;
+}
